@@ -1,5 +1,5 @@
 /**
-  * @note 本项目编译环境：AC5 -cpp11
+  * @note 本项目编译环境：AC5
   */
 #include "stm32f10x.h" // Device header
 #include "arduiduidui.h"
